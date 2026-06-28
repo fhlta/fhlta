@@ -48,6 +48,16 @@ Atuo na construção de sistemas escaláveis de alta disponibilidade, com foco e
 
 ---
 
+## 📊 Contribuições 3D
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fhlta/fhlta/3d-contrib/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fhlta/fhlta/3d-contrib/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="GitHub 3D Contrib" src="https://raw.githubusercontent.com/fhlta/fhlta/3d-contrib/profile-3d-contrib/profile-green-animate.svg">
+</picture>
+
+---
+
 ## 🏗️ Áreas de Interesse
 
 - Arquitetura de Software
@@ -88,8 +98,6 @@ Exemplos práticos de arquitetura orientada a eventos utilizando Kafka, RabbitMQ
 - Engenharia de Prompt
 - Agentes de IA
 - System Design para sistemas de larga escala
-
----
 
 ---
 
