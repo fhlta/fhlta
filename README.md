@@ -1,24 +1,26 @@
-# 👋 Olá, eu sou Fênix
+# Fênix
 
-Senior Software Engineer especializado em desenvolvimento backend, arquitetura distribuída e computação em nuvem.
+Senior Software Engineer specializing in backend development, distributed architecture, and cloud computing.
 
-Atuo na construção de sistemas escaláveis de alta disponibilidade, com foco em microsserviços, mensageria, integração entre sistemas e soluções cloud-native.
+I build highly available, scalable systems with a focus on microservices, messaging, systems integration, and cloud-native solutions.
+
+I currently work at **Itaú Unibanco**.
 
 ---
 
-## 🚀 Especialidades
+## 🚀 Core Expertise
 
-- Arquitetura de Microsserviços
+- Microservices Architecture
 - Event-Driven Architecture (EDA)
-- Sistemas Distribuídos
-- APIs REST e Assíncronas
-- Cloud Computing (AWS e Azure)
-- Observabilidade e Performance
+- Distributed Systems
+- REST and Asynchronous APIs
+- Cloud Computing (AWS and Azure)
+- Observability and Performance
 - Clean Architecture & DDD
 
 ---
 
-## 🛠️ Stack Principal
+## 🛠️ Main Stack
 
 ### Backend
 
@@ -33,13 +35,13 @@ Atuo na construção de sistemas escaláveis de alta disponibilidade, com foco e
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### Mensageria
+### Messaging
 
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-### Bancos de Dados
+### Databases
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -48,33 +50,9 @@ Atuo na construção de sistemas escaláveis de alta disponibilidade, com foco e
 
 ---
 
-## 📊 Contribuições 3D
+## 📊 3D Contributions
+
 ![3D Contributions](https://raw.githubusercontent.com/fhlta/fhlta/3d-contrib/profile-green-animate.svg)
-
----
-
-## 🏗️ Áreas de Interesse
-
-- Arquitetura de Software
-- System Design
-- Inteligência Artificial
-- SaaS
-- Produtos Digitais
-- Fintechs
-- Escalabilidade e Performance
-
----
-
-## 📌 Projetos em Destaque
-
-### 🎯 ShotCaller
-Plataforma para gerenciamento e movimentação automática de usuários em canais de voz do Discord.
-
-### 🏢 ERP SaaS
-Sistema de gestão empresarial multiempresa com foco em escalabilidade e arquitetura modular.
-
-### ⚡ Event-Driven Architecture
-Exemplos práticos de arquitetura orientada a eventos utilizando Kafka, RabbitMQ e padrões distribuídos.
 
 ---
 
@@ -86,14 +64,14 @@ Exemplos práticos de arquitetura orientada a eventos utilizando Kafka, RabbitMQ
 
 ---
 
-## 📚 Atualmente Estudando
+## 🎯 Current Focus
 
-- Arquitetura SaaS
-- IA aplicada a produtos
-- Engenharia de Prompt
-- Agentes de IA
-- System Design para sistemas de larga escala
+- SaaS Architecture
+- AI applied to products
+- Prompt Engineering
+- AI Agents
+- System Design for large-scale systems
 
 ---
 
-> "Building scalable systems, solving complex problems and transforming ideas into products."
+> "Building scalable systems, solving complex problems, and transforming ideas into products."
