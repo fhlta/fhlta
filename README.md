@@ -1,4 +1,4 @@
-# Fênix
+# Fenix
 
 Senior Software Engineer specializing in backend development, distributed architecture, and cloud computing.
 
