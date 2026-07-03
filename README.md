@@ -4,8 +4,6 @@ Senior Software Engineer specializing in backend development, distributed archit
 
 I build highly available, scalable systems with a focus on microservices, messaging, systems integration, and cloud-native solutions.
 
-I currently work at **Itaú Unibanco**.
-
 ---
 
 ## 🚀 Core Expertise
