@@ -21,8 +21,6 @@ I like working on things that need to scale, communicate well with other systems
 
 ## Tech I use often
 
-## Tech I use often
-
 ### Backend & Architecture
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
